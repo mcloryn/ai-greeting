@@ -1,0 +1,20 @@
+DOKUMEN DUMMY -- BUKAN DATA RESMI UNIVERSITAS MIKROSKIL
+Seluruh tanggal di bawah ini FIKTIF, dibuat khusus untuk pengujian CP10.
+
+JADWAL AKADEMIK DUMMY TAHUN AJARAN 20XX/20XX
+
+Semester Ganjil Dummy
+Pendaftaran mahasiswa baru dummy dibuka mulai bulan Mei dummy dan
+ditutup akhir Agustus dummy. Perkuliahan semester ganjil dummy dimulai
+awal September dummy dan berakhir pertengahan Januari dummy. Ujian
+akhir semester ganjil dummy dilaksanakan pada minggu ketiga Januari
+dummy.
+
+Semester Genap Dummy
+Perkuliahan semester genap dummy dimulai awal Februari dummy dan
+berakhir pertengahan Juni dummy. Ujian akhir semester genap dummy
+dilaksanakan pada minggu kedua Juni dummy.
+
+Libur Antar Semester Dummy
+Libur antar semester dummy berlangsung selama enam minggu dummy,
+dimulai setelah ujian akhir semester genap dummy selesai.

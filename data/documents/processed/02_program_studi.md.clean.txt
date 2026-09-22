@@ -1,0 +1,40 @@
+<!-- DOKUMEN DUMMY -- BUKAN DATA RESMI UNIVERSITAS MIKROSKIL -->
+<!-- Nama program studi, jenjang, dan status akreditasi di bawah ini FIKTIF. -->
+
+# Daftar Program Studi (DUMMY)
+
+## Fakultas Teknologi Informasi Dummy
+
+### Program Studi A (Teknik Informatika Dummy)
+
+Program Studi A adalah program sarjana dummy jenjang S1 dengan masa
+studi normal 4 tahun (8 semester). Program ini terakreditasi Dummy
+Peringkat A. Program Studi A memiliki tiga konsentrasi dummy:
+rekayasa perangkat lunak, kecerdasan buatan, dan jaringan komputer.
+
+### Program Studi B (Sistem Informasi Dummy)
+
+Program Studi B adalah program sarjana dummy jenjang S1 dengan masa
+studi normal 4 tahun. Program ini terakreditasi Dummy Peringkat B dan
+berfokus pada dummy manajemen sistem informasi perusahaan.
+
+## Fakultas Bisnis Dummy
+
+### Program Studi C (Manajemen Dummy)
+
+Program Studi C adalah program sarjana dummy jenjang S1 dengan masa
+studi normal 4 tahun. Program ini terakreditasi Dummy Peringkat A dan
+memiliki konsentrasi dummy di bidang pemasaran dan keuangan.
+
+### Program Studi D (Akuntansi Dummy)
+
+Program Studi D adalah program sarjana dummy jenjang S1 dengan masa
+studi normal 4 tahun. Program ini terakreditasi Dummy Peringkat B.
+
+## Program Pascasarjana Dummy
+
+### Program Studi E (Magister Teknik Informatika Dummy)
+
+Program Studi E adalah program magister dummy jenjang S2 dengan masa
+studi normal 1,5 tahun (3 semester). Program ini terakreditasi Dummy
+Peringkat B dan hanya menerima mahasiswa pada semester ganjil dummy.

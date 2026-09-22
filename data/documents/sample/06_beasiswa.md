@@ -1,0 +1,42 @@
+<!-- DOKUMEN DUMMY -- BUKAN DATA RESMI UNIVERSITAS MIKROSKIL -->
+<!-- Nama program beasiswa dan syarat di bawah ini FIKTIF. -->
+
+# Program Beasiswa (DUMMY)
+
+## Beasiswa Prestasi Akademik Dummy
+
+Beasiswa ini diberikan kepada mahasiswa dummy dengan indeks prestasi
+kumulatif (IPK) minimal 3,50 dari skala 4,00 pada semester
+sebelumnya. Beasiswa Prestasi Akademik Dummy memberikan keringanan
+Uang Kuliah Tunggal Dummy sebesar 50% selama satu semester berjalan.
+Pendaftar wajib mengumpulkan transkrip nilai dummy dan surat
+rekomendasi dummy dari dosen wali.
+
+## Beasiswa Kurang Mampu Dummy
+
+Beasiswa ini ditujukan bagi calon mahasiswa dummy dari keluarga dengan
+penghasilan di bawah ambang batas dummy yang ditetapkan setiap tahun.
+Pendaftar wajib melampirkan surat keterangan tidak mampu dummy dari
+kelurahan setempat, slip gaji orang tua dummy (atau surat keterangan
+tidak berpenghasilan tetap dummy), dan hasil wawancara dengan tim
+seleksi beasiswa dummy. Beasiswa ini menanggung Uang Kuliah Tunggal
+Dummy penuh (100%) selama masa studi normal, dengan syarat IPK tetap
+dijaga minimal 3,00 setiap semester dummy.
+
+## Beasiswa Prestasi Non-Akademik Dummy
+
+Diberikan kepada mahasiswa dummy yang berprestasi di bidang olahraga,
+seni, atau organisasi tingkat nasional maupun internasional dummy.
+Bukti prestasi berupa sertifikat atau piagam dummy wajib dilampirkan
+saat pendaftaran. Besaran keringanan bervariasi dummy, mulai dari 25%
+hingga 75% dari Uang Kuliah Tunggal Dummy, tergantung tingkat
+prestasi yang dicapai.
+
+## Ketentuan Umum Dummy
+
+Seluruh penerima beasiswa dummy wajib mempertahankan status mahasiswa
+aktif dan tidak sedang menjalani sanksi akademik dummy apa pun.
+Beasiswa dummy dapat dicabut sewaktu-waktu apabila penerima terbukti
+memberikan data palsu dummy saat pendaftaran. Pengumuman hasil seleksi
+beasiswa dummy dilakukan paling lambat dua minggu dummy setelah
+periode pendaftaran ditutup.

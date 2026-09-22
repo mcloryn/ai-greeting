@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+
+# Rahasia -- WAJIB tidak pernah masuk git (Aturan #21 Build Plan)
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Data yang dihasilkan runtime, bukan source code
+data/vector_store/
+data/audio_cache/
+data/logs/
+
+# Model besar yang diunduh otomatis (YOLO, embedding)
+models/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Pytest
+.pytest_cache/

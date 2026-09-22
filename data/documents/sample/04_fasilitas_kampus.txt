@@ -1,0 +1,26 @@
+DOKUMEN DUMMY -- BUKAN DATA RESMI UNIVERSITAS MIKROSKIL
+Dibuat khusus untuk pengujian CP10. Seluruh fasilitas di bawah ini FIKTIF.
+
+FASILITAS KAMPUS (DUMMY)
+
+Perpustakaan Dummy
+Perpustakaan pusat memiliki koleksi dummy sebanyak 50.000 judul buku
+fisik dan akses ke perpustakaan digital dummy. Perpustakaan buka setiap
+hari kerja pukul 08.00 sampai 20.00 waktu setempat dummy.
+
+Laboratorium Komputer Dummy
+Terdapat 10 ruang laboratorium komputer dummy yang tersebar di dua
+gedung kampus, masing-masing dengan kapasitas 40 unit komputer dummy.
+
+Kantin dan Kafetaria Dummy
+Kampus memiliki 3 titik kantin dummy dan 1 kafetaria dummy yang buka
+dari pukul 07.00 hingga 18.00 waktu setempat dummy.
+
+Klinik Kesehatan Dummy
+Klinik kesehatan kampus dummy melayani mahasiswa dan staf setiap hari
+kerja, dengan satu dokter umum dummy dan dua perawat dummy yang
+bertugas secara bergantian.
+
+Lapangan Olahraga Dummy
+Kampus menyediakan satu lapangan basket dummy, satu lapangan futsal
+indoor dummy, dan area jogging track sepanjang 800 meter dummy.

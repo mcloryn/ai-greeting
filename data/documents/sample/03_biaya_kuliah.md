@@ -1,0 +1,32 @@
+<!-- DOKUMEN DUMMY -- BUKAN DATA RESMI UNIVERSITAS MIKROSKIL -->
+<!-- Seluruh angka biaya di bawah ini FIKTIF, ditulis format Rp X.XXX.XXX. -->
+
+# Biaya Kuliah (DUMMY)
+
+## Komponen Biaya
+
+Biaya kuliah di Universitas Contoh terdiri dari dua komponen utama:
+Biaya Pengembangan Dummy (dibayar sekali di awal) dan Uang Kuliah
+Tunggal Dummy (dibayar tiap semester).
+
+## Tabel Biaya per Program Studi
+
+| Program Studi   | Biaya Pengembangan (Rp) | UKT per Semester (Rp) |
+|------------------|--------------------------|-------------------------|
+| Program Studi A  | Rp X.XXX.XXX            | Rp X.XXX.XXX           |
+| Program Studi B  | Rp X.XXX.XXX            | Rp X.XXX.XXX           |
+| Program Studi C  | Rp X.XXX.XXX            | Rp X.XXX.XXX           |
+| Program Studi D  | Rp X.XXX.XXX            | Rp X.XXX.XXX           |
+| Program Studi E  | Rp X.XXX.XXX            | Rp X.XXX.XXX           |
+
+## Skema Cicilan Dummy
+
+Uang Kuliah Tunggal Dummy dapat dicicil menjadi 3 tahap dalam satu
+semester: 40% di awal semester, 30% pada pertengahan semester, dan 30%
+sisanya sebelum ujian akhir semester dummy dimulai.
+
+## Biaya Tambahan Dummy
+
+Beberapa program studi dummy (Program Studi A dan Program Studi E)
+mengenakan biaya laboratorium tambahan sebesar Rp X.XXX.XXX per
+semester untuk penggunaan fasilitas komputer dummy.
