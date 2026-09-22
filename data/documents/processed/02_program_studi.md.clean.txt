@@ -1,6 +1,3 @@
-<!-- DOKUMEN DUMMY -- BUKAN DATA RESMI UNIVERSITAS MIKROSKIL -->
-<!-- Nama program studi, jenjang, dan status akreditasi di bawah ini FIKTIF. -->
-
 # Daftar Program Studi (DUMMY)
 
 ## Fakultas Teknologi Informasi Dummy

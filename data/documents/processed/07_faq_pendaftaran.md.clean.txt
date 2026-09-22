@@ -1,6 +1,3 @@
-<!-- DOKUMEN DUMMY -- BUKAN DATA RESMI UNIVERSITAS MIKROSKIL -->
-<!-- Seluruh jawaban di bawah ini FIKTIF, dibuat khusus untuk pengujian CP10. -->
-
 # Pertanyaan Umum Pendaftaran (DUMMY)
 
 ## Apa saja syarat pendaftaran mahasiswa baru dummy?

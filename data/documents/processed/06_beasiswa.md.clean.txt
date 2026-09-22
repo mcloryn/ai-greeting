@@ -1,6 +1,3 @@
-<!-- DOKUMEN DUMMY -- BUKAN DATA RESMI UNIVERSITAS MIKROSKIL -->
-<!-- Nama program beasiswa dan syarat di bawah ini FIKTIF. -->
-
 # Program Beasiswa (DUMMY)
 
 ## Beasiswa Prestasi Akademik Dummy

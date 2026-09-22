@@ -26,7 +26,7 @@ logger = get_logger(__name__)
 
 
 class DocumentProcessor:
-    """Membersihkan teks mentah: tabel markdown, spasi ganda, baris kosong berlebih, karakter sampah."""
+    """Membersihkan teks mentah: komentar HTML, tabel markdown, spasi ganda, baris kosong berlebih, karakter sampah."""
 
     def process(self, raw: RawDocument) -> CleanDocument:
         clean_pages = [
@@ -43,10 +43,14 @@ class DocumentProcessor:
         """Bersihkan satu blok teks.
 
         Urutan operasi sengaja begini:
-        0. Konversi tabel markdown jadi kalimat natural DULU, sebelum
-           whitespace dirapikan -- supaya kalimat hasil konversi ikut
-           kena normalisasi spasi/baris kosong di langkah berikutnya,
-           bukan diproses terpisah dengan aturan whitespace sendiri.
+        0a. Buang komentar HTML (<!-- ... -->) DULUAN -- ini metadata
+            dokumentasi (mis. catatan "dokumen dummy"), bukan konten,
+            dan kalau dibiarkan bisa jadi chunk tersendiri yang tidak
+            berguna buat RAG.
+        0b. Konversi tabel markdown jadi kalimat natural, sebelum
+            whitespace dirapikan -- supaya kalimat hasil konversi ikut
+            kena normalisasi spasi/baris kosong di langkah berikutnya,
+            bukan diproses terpisah dengan aturan whitespace sendiri.
         1. Normalisasi akhir baris (Windows \\r\\n -> \\n) dulu, supaya
            regex baris kosong di langkah berikutnya konsisten.
         2. Buang whitespace di akhir tiap baris (trailing spaces).
@@ -59,6 +63,7 @@ class DocumentProcessor:
         if not text:
             return text
 
+        text = self._strip_html_comments(text)
         text = self._convert_markdown_tables(text)
 
         text = text.replace("\r\n", "\n").replace("\r", "\n")
@@ -72,6 +77,13 @@ class DocumentProcessor:
 
         return text.strip()
 
+    def _strip_html_comments(self, text: str) -> str:
+        """Buang komentar HTML/markdown '<!-- ... -->', termasuk yang
+        multi-baris (re.DOTALL), karena isinya metadata dokumentasi
+        (mis. penanda "dokumen dummy"), bukan konten yang perlu di-embed.
+        """
+        return re.sub(r"<!--.*?-->", "", text, flags=re.DOTALL)
+    
     def _convert_markdown_tables(self, text: str) -> str:
         """Deteksi blok tabel markdown (header + separator + baris data),
         ubah tiap baris data jadi kalimat natural: '<kolom1> memiliki

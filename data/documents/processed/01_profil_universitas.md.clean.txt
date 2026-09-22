@@ -1,7 +1,3 @@
-<!-- DOKUMEN DUMMY -- BUKAN DATA RESMI UNIVERSITAS MIKROSKIL -->
-<!-- Dibuat khusus untuk pengujian CP10 (parser & chunker). Seluruh angka,
-     nama program studi, dan fakta di bawah ini adalah FIKTIF. -->
-
 # Profil Universitas (DUMMY)
 
 ## Sejarah Singkat

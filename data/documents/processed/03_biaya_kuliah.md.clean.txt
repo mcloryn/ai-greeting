@@ -1,6 +1,3 @@
-<!-- DOKUMEN DUMMY -- BUKAN DATA RESMI UNIVERSITAS MIKROSKIL -->
-<!-- Seluruh angka biaya di bawah ini FIKTIF, ditulis format Rp X.XXX.XXX. -->
-
 # Biaya Kuliah (DUMMY)
 
 ## Komponen Biaya
