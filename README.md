@@ -43,8 +43,3 @@ data/                      Dokumen, vector store, cache audio, log
 scripts/                   Skrip pemeriksaan manual per komponen
 tests/                     Unit test & integration test
 ```
-
-## Aturan yang Mengikat
-
-Lihat Bagian 2 Build Plan. Ringkas: modular, satu sumber state, tidak boleh
-mengarang fakta Universitas Mikroskil, satu checkpoint pada satu waktu.
